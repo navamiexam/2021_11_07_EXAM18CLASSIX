@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="D12DB8FA-77CA-4E74-8C46-CD0E049DF946" version="0">
+<presentation availableOffline="1" guid="E0849746-26C1-458D-BD08-1B6A892BB121" version="0">
 	<info>
 		<title>2021_11_07_EXAM18CLASSIX</title>
 		<description/>
 	</info>
-	<files index="id18" thumbnail="id14" totalSize="2400233">
+	<files index="id18" thumbnail="id14" totalSize="2402165">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
